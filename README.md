@@ -40,8 +40,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudiptaMondal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptaMondal&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subirxd&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subirxd&theme=tokyonight" />
 </p>
 
 ---
